@@ -6,11 +6,11 @@ Responsive portfolio website built with HTML, CSS, and vanilla JavaScript.
 
 | Home | About |
 | --- | --- |
-| ![Portfolio home page](assets/image-2.png) | ![Portfolio about section](assets/image-3.png) |
+| ![Portfolio home page](assets/image-1.png) | ![Portfolio about section](assets/image-3.png) |
 
 | Skills | Work process |
 | --- | --- |
-| ![Portfolio skills section](assets/image-1.png) | ![Portfolio work process section](assets/image-4.png) |
+| ![Portfolio skills section](assets/image-4.png) | ![Portfolio work process section](assets/image-2.png) |
 
 ## Project screenshots
 
