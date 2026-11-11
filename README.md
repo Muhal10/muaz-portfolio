@@ -2,6 +2,16 @@
 
 Responsive portfolio website built with HTML, CSS, and vanilla JavaScript.
 
+## Portfolio screenshots
+
+| Home | About |
+| --- | --- |
+| ![Portfolio home page](assets/image-2.png) | ![Portfolio about section](assets/image-3.png) |
+
+| Skills | Work process |
+| --- | --- |
+| ![Portfolio skills section](assets/image-1.png) | ![Portfolio work process section](assets/image-4.png) |
+
 ## Project screenshots
 
 Screenshots from the Falah money management app featured in the portfolio:
@@ -29,6 +39,10 @@ muaz-portfolio/
 ├── script.js
 ├── README.md
 └── assets/
+    ├── image-1.png
+    ├── image-2.png
+    ├── image-3.png
+    ├── image-4.png
     ├── Muaz-Fathi-Ahmed-CV.pdf
     ├── muaz.jpg
     └── falah/
