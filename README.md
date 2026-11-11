@@ -1,28 +1,19 @@
-<<<<<<< HEAD
-# muaz-portfolio
-Personal portfolio website showcasing my skills, experience, education, and software development projects. Built with HTML, CSS, and JavaScript, featuring a responsive dark-themed design, project showcases, downloadable CV, and contact information.
-=======
 # Muaz Fathi Ahmed — Portfolio
 
-Responsive dark-themed portfolio built with HTML, CSS and vanilla JavaScript.
+Responsive portfolio website built with HTML, CSS, and vanilla JavaScript.
 
 ## Run locally
-1. Extract the ZIP.
-2. Open the `muaz-portfolio` folder in VS Code.
-3. Install the **Live Server** extension.
-4. Right-click `index.html` → **Open with Live Server**.
 
-## Personal details included
-- Email: muazfethi46@gmail.com
-- Phone: +251 912 846 151
-- GitHub: https://github.com/Muhal10
-- Location: Addis Ababa, Ethiopia
+From this directory, start a local static web server:
 
+```sh
+python3 -m http.server 8000
+```
 
-
-
+Then open http://localhost:8000 in a browser. Alternatively, open `index.html` with the VS Code Live Server extension.
 
 ## Structure
+
 ```text
 muaz-portfolio/
 ├── index.html
@@ -30,6 +21,10 @@ muaz-portfolio/
 ├── script.js
 ├── README.md
 └── assets/
-    └── Muaz-Fathi-Ahmed-CV.pdf
+    ├── Muaz-Fathi-Ahmed-CV.pdf
+    ├── muaz.jpg
+    └── falah/
+        ├── falah-income.webp
+        ├── falah-expense.webp
+        └── falah-report.webp
 ```
->>>>>>> e9faf81 (second commit port)
