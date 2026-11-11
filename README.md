@@ -2,6 +2,14 @@
 
 Responsive portfolio website built with HTML, CSS, and vanilla JavaScript.
 
+## Project screenshots
+
+Screenshots from the Falah money management app featured in the portfolio:
+
+| Add income | Add expenses | Financial report |
+| --- | --- | --- |
+| ![Falah income screen](assets/falah/falah-income.webp) | ![Falah expenses screen](assets/falah/falah-expense.webp) | ![Falah financial report screen](assets/falah/falah-report.webp) |
+
 ## Run locally
 
 From this directory, start a local static web server:
